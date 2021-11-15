@@ -2,9 +2,9 @@
   "name": "electron-admin",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev":"electron ."
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lczCoder/electron-admin/issues"
   },
-  "homepage": "https://github.com/lczCoder/electron-admin#readme"
+  "homepage": "https://github.com/lczCoder/electron-admin#readme",
+  "devDependencies": {
+    "electron": "^15.3.1"
+  }
 }
