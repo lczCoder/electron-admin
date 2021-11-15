@@ -1,0 +1,23 @@
+{
+  "name": "electron-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev":"electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lczCoder/electron-admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lczCoder/electron-admin/issues"
+  },
+  "homepage": "https://github.com/lczCoder/electron-admin#readme",
+  "devDependencies": {
+    "electron": "^15.3.1"
+  }
+}
